@@ -152,10 +152,18 @@ For more info about usage checkout [YouTube video](https://www.youtube.com/watch
         ├── package-lock.json             # Lockfile for package dependencies.
         ├── README.md                     # Project documentation.
         └── truffle-config.js                    # Truffle configuration file.
+        
+ ## Acknowledgement
+
+This project was initially cloned from [ Decentralized-Voting-System](https://github.com/Krish-Depani/Decentralized-Voting-System.git). 
+Special thanks to the original contributors for their amazing work.
+
+
 
 ## License
 
 The code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice. For more information about LICENSE please click [here](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/LICENSE).
+
 
 ## If you like this project, please give it a 🌟.
 ## Thank you 😊.
